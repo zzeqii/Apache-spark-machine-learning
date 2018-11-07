@@ -14,7 +14,7 @@ files to store training image, training label, test image and test label. The fi
 
 ## Stage One: KNN Classifier
 
-developing a KNN classifier to classify 10,000 test images.
+Developing a KNN classifier from the scratch to classify 10,000 test images.
 
 ## Stage Two: Performance 
 
